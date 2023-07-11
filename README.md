@@ -1,10 +1,11 @@
 export default class MyProfile {
   constructor() { }
+
   /**
    * @returns {string} Full Name
    */
   get full_name() {
-    return "Austin Norquist";
+    return "Andreas Maerten";
   }
 
   /**
@@ -19,9 +20,10 @@ export default class MyProfile {
    */
   get skillset() {
     return [
-      "C++", "C", "ReactJS",
-      "Python", "Flutter", "CSS",
-      "Bash", "Docker"
+      "C++", "C#", "Docker",
+      "Fullstack Web", "NodeJS",
+      "Lua",  "PHP", "Python",
+      "VueJS"
     ];
   }
 
@@ -30,7 +32,16 @@ export default class MyProfile {
    */
   get socials() {
     return {
-      "Discord": "DynoNugget7"
+      "discord": "https://discord.gg/EG4zHFR", // Don't contact me in my DM's I will block you
+      "steam"  : "steamcommunity.com/id/y1mura",
+      "twitter": "@Yimura9"
     }
+  }
+
+  /**
+   * @returns {string}
+   */
+  getMoreInfo() {
+    return "https://andreas.is.a.pieceof.art";
   }
 }
