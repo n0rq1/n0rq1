@@ -23,7 +23,7 @@ export default class MyProfile {
   get skillset() {
     return [
       "C++", "C", "Docker", "ReactJS",
-      "Flutter", "Python", "Bash", "CSS", "SQL"
+      "Flutter", "Python", "Bash", "CSS", "SQL", "OCaml"
     ];
   }
 
