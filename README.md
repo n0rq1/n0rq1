@@ -32,7 +32,7 @@ export default class MyProfile {
    */
   get socials() {
     return {
-      "discord": "DynoNugget7"
+      "discord": "DynoNugget7" /*Feel free to msg me :) */
     }
   }
 
