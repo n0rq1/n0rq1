@@ -14,7 +14,7 @@ export default class MyProfile {
    * @returns {string} Gender
    */
   get gender() {
-    return "male";
+    return "male (he/him)";
   }
 
   /**
