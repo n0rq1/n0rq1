@@ -1,40 +1,9 @@
+<h1>Hi 👋, My name is Austin Norquist</h1>
 
-```js
-export default class MyProfile {
-  constructor() { }
+- 🧑🏽‍🎓 I am a current graduate student at CSU Chico, studying Computer Science.
+- 📚 My primary interests are Software Development and Data Science.
 
-  /**
-   * @returns {string} Full Name
-   */
-  get full_name() {
-    return "Austin Norquist";
-  }
-
-  /**
-   * @returns {string} Gender
-   */
-  get gender() {
-    return "male (he/him)";
-  }
-
-  /**
-   * @returns {Array<string>}
-   */
-  get skillset() {
-    return [
-      "C++", "C", "Docker", "JavaScript",
-      "Dart", "Python", "Bash", "CSS", "SQL", "OCaml"
-    ];
-  }
-
-  /**
-   * @returns {Object}
-   */
-  get socials() {
-    return {
-      "discord": "DynoNugget7" /*Feel free to msg me :) */
-    }
-  }
-
-}
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+	<a href="https://www.linkedin.com/in/austin-norquist/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n0rq1" height="30" /></a> &nbsp;
+</p>
