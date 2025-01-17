@@ -1,7 +1,7 @@
 <h1>Hi 👋, my name is Austin Norquist</h1>
 
-- I am a current graduate student at CSU Chico, studying Computer Science.
-- My primary interests are Software Development and Data Science.
+- I am a currently working on my Master's in Computer Science.
+- My primary interests are Software Development, DevOps, and Data Science.
 
 <hr>
 
