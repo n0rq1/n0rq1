@@ -16,5 +16,5 @@
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="30" /></a>
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30" /></a>
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="30" /></a>
-	<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://en.m.wikipedia.org/wiki/File:Kubernetes_logo_without_workmark.svg" alt="Kubernetes" height="30" /></a>
+	<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="./kubernetes.svg" alt="Kubernetes" height="30" /></a>
 </p>
